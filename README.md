@@ -1,6 +1,5 @@
 # Selenium-Java-TestNG-Tutorial-Bakkappa-N
 Develop Selenium Cucumber TestNG Framework
-
 Refer Youtube tutorials playlist developed framework from scratch.
 PART01 - https://www.youtube.com/watch?v=NYB2-3PQiX0&index=42&list=PLUeDIlio4THEKL1t1tLBsyB6nsWAJMXOp
 PART02 - https://www.youtube.com/watch?v=gcDWLj0p2-Q&index=43&list=PLUeDIlio4THEKL1t1tLBsyB6nsWAJMXOp
